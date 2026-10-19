@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Open-source tools to design, run and analyse seqFISH+ experiments in whole, intact animals.</b><br>
-  <sub>Groaz*, Aguirre*, Glasser, Sternberg &#183; Caltech, Biology and Biological Engineering</sub>
+  <sub>Caltech, Biology and Biological Engineering</sub>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Single-cell RNA-seq in small organisms means dissociating and pooling many anima
 information is lost. Fluorescent reporters keep it, but only for a few genes. **FISHsuite** is a seqFISH+
 platform that profiles **up to 600 genes at single-cell resolution in a single intact animal**, imaged in 3D.
 We developed it in *C. elegans*, which is transparent and has a fully mapped nervous system. It should
-carry over to other samples under ~100 µm thick, such as brain slices.
+carry over to other samples under ~100 µm thick, such as thick brain slices.
 
 > 🚧 **This is a placeholder.** All code, CAD files and protocols will be released here.
 > Watch or star the repo to get notified.
